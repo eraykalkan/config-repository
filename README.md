@@ -1,1 +1,1 @@
-# barngem-configrepo
+# Configuration Repository
